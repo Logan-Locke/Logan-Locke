@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Student at the University of Oregon working towards a B.S. in Data Science and minor in Mathematics, with a concentration in Sociology.
 I have a passion for cleaning and analyzing real-world data, and designing visualizations to highlight the insights found within.
 
