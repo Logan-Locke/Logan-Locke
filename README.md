@@ -1,8 +1,6 @@
 Student at the University of Oregon working towards a B.S. in Data Science and minor in Mathematics, with a concentration in Sociology.
 I have a passion for cleaning and analyzing real-world data, and designing visualizations to highlight the insights found within.
-
-As an aspiring Machine Learning Engineer, I am eager to apply my knowledge to generate actionable insights and create scalable models.
-I look forward to contributing to an innovative company committed to making an impact in the community.
+As an aspiring Machine Learning Engineer, I am eager to apply my knowledge to an innovative company committed to making an impact in the community.
 
 <!--
 **Logan-Locke/Logan-Locke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
