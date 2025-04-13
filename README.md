@@ -1,5 +1,5 @@
 Student at the University of Oregon working towards a B.S. in Data Science and minor in Mathematics, with a concentration in Sociology.
-I have a passion for cleaning and analyzing real-world data, and designing visualizations to highlight the insights found within.
+I enjoy cleaning and analyzing real-world data, and designing visualizations to highlight the insights found within.
 As an aspiring Machine Learning Engineer, I am eager to apply my knowledge to an innovative company committed to making an impact in the community.
 
 <!--
